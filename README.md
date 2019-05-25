@@ -11,3 +11,6 @@ Drawing With Code Workshop At Great Neck Public Library
 >- Click file --> save, now your project is saved!
 >- Click file --> open, you can see a list of your saved projects here
 
+## Getting started with code
+>- Click the play button to run your code, a grey box should have appeared 
+>- Click the stop button to stop running your code 
